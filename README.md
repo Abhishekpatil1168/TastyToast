@@ -1,6 +1,6 @@
 # 😋TastyToast 🍞 for Android 📱
 
-📱 Android Library to implement Rich, Beautiful Toasts for your project with all Guidelines. Easy to use.
+📱 Android Library to implement Rich, Beautiful Toasts for my project with all Guidelines. Easy to use.
 
 <a name="introduction"></a>
 ## Introduction
